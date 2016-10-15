@@ -35,4 +35,5 @@ http.createServer (req, res)->
       .pipe @
   .on 'error', ->
     headers '500 Error'
+    sock.end()
 .listen 8000
