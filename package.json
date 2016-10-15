@@ -1,0 +1,24 @@
+{
+  "name": "m117",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Double reversed proxy via websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ukoloff@github.com/ukoloff/m117.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukoloff/m117/issues"
+  },
+  "homepage": "https://github.com/ukoloff/m117#readme",
+  "dependencies": {
+    "coffee-script": "^1.11.1"
+  }
+}
